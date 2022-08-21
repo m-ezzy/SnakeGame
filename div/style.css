@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	overflow: hidden;
+}
+#c {
+	position: relative;
+	left: 0;
+	top: 0;
+	background-color: aqua;
+
+	display: flex;
+	flex-wrap: wrap;
+}
+.square {
+	position: relative;
+	border-width: 0vw;
+	border-style: solid;
+	background-color: blueviolet;
+}
